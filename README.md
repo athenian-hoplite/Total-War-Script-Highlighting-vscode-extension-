@@ -1,6 +1,7 @@
 # Total War Script Highlighting
 
-Adds support for syntax highlighting of the scripting language / data used in Rome Total War.  
+Adds support for syntax highlighting of the scripting language / data format used in [Rome Total War](https://store.steampowered.com/app/885970/Total_War_ROME_REMASTERED/) and [Medieval 2 Total War](https://store.steampowered.com/app/4700/Total_War_MEDIEVAL_II__Definitive_Edition/). The extension is featured in Rome Total War Remastered's [official github documentation for modding support](https://github.com/FeralInteractive/romeremastered?tab=readme-ov-file#third-party-resources) as a useful third party tool by the devs at Feral Interactive ! It is available in the [microsoft marketplace](https://marketplace.visualstudio.com/items?itemName=RenatoPereira.total-war-script-highlighting) and can be installed as usual through the vscode extension interface.
+
 Supported files at this momment are:  
 
 1. Campaign Scripts (inside descr_strat.txt or standalone)
