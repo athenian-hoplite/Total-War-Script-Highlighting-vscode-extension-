@@ -1,0 +1,53 @@
+{
+	"name": "total-war-script-highlighting",
+	"displayName": "Total War Script Highlighting",
+	"description": "Highlighting support for the scripting language/data format used in Rome Total War",
+	"publisher": "RenatoPereira",
+	"version": "0.0.1",
+	"icon": "icon.png",
+	"galleryBanner.color": "00617E",
+	"pricing": "Free",
+	"repository": {
+		"url": "https://github.com/zeus-nikephoros/total-war-script-highlighting"
+	},
+	"engines": {
+		"vscode": "^1.73.0"
+	},
+	"categories": [
+		"Programming Languages"
+	],
+	"contributes": {
+		"languages": [
+			{
+				"id": "total_war_script",
+				"aliases": [
+					"Total War Script",
+					"total_war_script"
+				],
+				"extensions": [
+					".txt"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "total_war_script",
+				"scopeName": "source.total_war_script",
+				"path": "./syntaxes/total_war_script.tmLanguage.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "bbc8d1e2-3e16-4618-8602-74e42c458a03",
+		"publisherId": "76f05d99-d68f-4458-bd3d-5a7bb2e06832",
+		"publisherDisplayName": "Renato Pereira",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1668978538917,
+		"preRelease": false,
+		"size": 314019
+	}
+}
