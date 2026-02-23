@@ -8,13 +8,16 @@ Supported files at this momment are:
 3. Data in export_descr_buildings.txt
 
 scripts:  
-![feature X](https://github.com/zeus-nikephoros/total-war-script-highlighting/raw/HEAD/img/scripts.png)  
+
+![feature X](img/scripts.png)  
 
 descr_strat.txt:
-![feature X](https://github.com/zeus-nikephoros/total-war-script-highlighting/raw/HEAD/img/strat.png)
+
+![feature X](img/strat.png)
 
 export_descr_buildings.txt:
-![feature X](https://github.com/zeus-nikephoros/total-war-script-highlighting/raw/HEAD/img/edb.png)
+
+![feature X](img/edb.png)
 
 # Known Issues
 
